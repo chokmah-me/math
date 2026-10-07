@@ -309,6 +309,11 @@ sources:
     id: ../preprints/Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026/paper.pdf
     type: article
 
+  - title: "Catalan's constant is irrational"
+    authors: ["OpenAI"]
+    id: ../preprints/Catalans-constant-is-irrational-September-24-2026/paper.pdf
+    type: article
+
   - title: "Choiceless polynomial time with counting does not capture polynomial time"
     authors: ["OpenAI"]
     id: ../preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/paper.pdf
